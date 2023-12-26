@@ -1,55 +1,59 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você seria um Grinch ou Papai Noel?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "O que você prefere fazer nas festas de fim de ano?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Distribuir presentes", "alias":"B"},
+        {"id": 2, "name":"Ficar em casa, longe de agitações", "alias":"A"},
+        {"id": 3, "name":"Jogar travessuras discretas", "alias":"B"},
+        {"id": 4, "name":"Ignorar completamente as festas", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Como você reage ao espírito de doação?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Adoro dar presentes", "alias":"B"},
+        {"id": 2, "name":"Prefiro não me envolver", "alias":"A"},
+        {"id": 3, "name":"Dou alguns presentes, mas guardo o melhor para mim", "alias":"B"},
+        {"id": 4, "name":"Ignoro completamente o espírito de doaçãor", "alias":"A"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Escolha uma atividade para as festas:",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Fazer brincadeiras engraçadas", "alias":"B"},
+        {"id": 2, "name":"Ficar sozinho assistindo filmes", "alias":"A"},
+        {"id": 3, "name":"Evitar todas as atividades festivas", "alias":"A"},
+        {"id": 4, "name":"Cantar canções de Natal", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Como você se prepara para o Natal?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Faço o mínimo necessário", "alias":"A"},
+        {"id": 2, "name":"Ignoro completamente a preparação", "alias":"A"},
+        {"id": 3, "name":"Com antecedência, planejando tudo", "alias":"B"},
+        {"id": 4, "name":"Deixo tudo para a última hora", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "QuaO que você faria se visse alguém triste durante as festas?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Ignoraria a tristeza alheia", "alias":"A"},
+        {"id": 2, "name":"Faria piadas para animá-los", "alias":"B"},
+        {"id": 3, "name":"Tentaria alegrá-los", "alias":"B"},
+        {"id": 4, "name":"Ofereceria apoio, mas sem exageros", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria um Grinch!",
+    "B": "Você muito provavelmente seria o Papai Noel!"
   }
 }
